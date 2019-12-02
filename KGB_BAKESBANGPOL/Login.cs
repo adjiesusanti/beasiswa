@@ -1,8 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel;
-using System.Data;
-using System.Drawing;
+using System.Data; //rasakan
+using System.Drawing; //hjehehehehe
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;

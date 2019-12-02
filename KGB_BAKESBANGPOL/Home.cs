@@ -1,6 +1,7 @@
 ﻿//heheheheheheeh
+//crash gak?
 using MySql.Data.MySqlClient;
-using System;
+using System; //opo wes...
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -10,7 +11,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace KGB_BAKESBANGPOL
+namespace KGB_BAKESBANGPOL //embuh
 {
     public partial class Home : Form
     {
